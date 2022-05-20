@@ -1,1 +1,0 @@
-# PositiveNumbers-JUnit2
